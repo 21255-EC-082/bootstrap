@@ -1,0 +1,7 @@
+BOOTSTRAP
+             it is mainly used to get the responsiveness to the webpage
+  here responsiveness means to the adjust the webpage according to the screen size.
+          in bootstrap there is no need to write the code but we link in our html.
+     we can use bootstrap by using cdn links and  for that we should connect our pc to  internet
+ there is another offline way to use bootstrap is to download bootstrap and we can use without connecting to the internet.
+                 by using a bootstrap page we can use a same webpage and we can open the same web page in diifferent devices.

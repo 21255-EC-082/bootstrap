@@ -1,0 +1,15 @@
+ in bootstrap there is no need to use height ,width.
+          there are 6 breakpoints in bootstrap
+        in this breakpoints we can view the screen sizes.
+     
+Breakpoint	Class infix	Dimensions
+X-Small	                  None	                  <576px
+Small	                   sm	                   ≥576px                
+Medium	                  md                            ≥768px      
+Large	                   lg	                   ≥992px              
+Extra large                 xl	                    ≥1200px              
+Extra extra large       xxl	                  ≥1400px
+
+
+
+Each breakpoint was chosen to comfortably hold containers whose widths are multiples of 12. Breakpoints are also representative of a subset of common device sizes and viewport dimensions—they don’t specifically target every use case or device. Instead, the ranges provide a strong and consistent foundation to build on for nearly any device.
